@@ -34,8 +34,8 @@ namespace Mighty_Block
         public Game1()
         {
             graphics = new GraphicsDeviceManager(this);
-            graphics.PreferredBackBufferWidth = 1920;
-            graphics.PreferredBackBufferHeight = 1080;
+            graphics.PreferredBackBufferWidth = 1650;
+            graphics.PreferredBackBufferHeight = 1050;
             Content.RootDirectory = "Content";
             //Components.Add(new GamerServicesComponent(this));
         }
